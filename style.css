@@ -1,0 +1,27 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    background-color:rgb(17, 112, 212);
+    font-size: 18px;
+    color: whitesmoke;
+}
+
+.heading{
+    font-weight: bold;
+    width: 70%;
+    font-size: 45px;
+}
+
+.name_of_objects,#label,#confidence{
+    color:antiquewhite;
+    letter-spacing: 2px;
+    font-size: 25px;
+}
+
+#camera{
+    width:350px;
+    height: 300px;
+    border:rgb(141, 180, 195) 2px solid;
+
+}
